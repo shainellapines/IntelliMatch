@@ -100,7 +100,7 @@ cd backend
 npm install
 ```
 
-Create a `backend/.env` file:
+Copy `backend/.env.example` to `backend/.env` and fill in your own values:
 
 ```env
 MONGO_URI=your_mongodb_connection_string
@@ -121,7 +121,6 @@ The API runs at `http://localhost:5000`.
 ```bash
 cd frontend/ai-resume-system
 npm install
-npm install axios
 npm run dev
 ```
 
