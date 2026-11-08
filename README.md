@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# IntelliMatch: AI Resume Analyzer & Job Matching System
 
 A full-stack web application that analyzes resume text, gives it a score, points out weak areas, suggests improvements, and matches the resume against job postings based on skills.
 
